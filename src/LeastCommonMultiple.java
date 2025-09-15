@@ -1,3 +1,4 @@
+//20. //19. Write a program to print lcm(least common multiple) of two numbers.//
 import java.util.Scanner;
 public class LeastCommonMultiple {
     public static void main(String[] args) {
