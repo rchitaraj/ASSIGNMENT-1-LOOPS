@@ -1,3 +1,4 @@
+//14. Write a program to print wheather a number is armstrong number using loops.//
 import java.util.Scanner;
 public class ArmstrongNumber {
     public static void main(String[] args) {
