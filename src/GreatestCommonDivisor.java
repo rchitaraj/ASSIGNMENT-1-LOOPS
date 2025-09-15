@@ -1,3 +1,4 @@
+//19. Write a program to print gcd(greatest common divisor of two numbers.//
 import java.util.Scanner;
 public class GreatestCommonDivisor {
     public static void main(String[] args) {
